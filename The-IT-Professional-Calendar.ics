@@ -4,9 +4,9 @@ VERSION:2.0
 NAME:The IT Professional Calendar
 X-WR-CALNAME:The IT Professional Calendar
 DESCRIPTION:Open-source calendar with a collection IT Professional Dates
-https://github.com/cdemi/The-IT-Professional-Calendar
+ https://github.com/cdemi/The-IT-Professional-Calendar
 X-WR-CALDESC:Open-source calendar with a collection IT Professional Dates
-https://github.com/cdemi/The-IT-Professional-Calendar
+ https://github.com/cdemi/The-IT-Professional-Calendar
 BEGIN:VEVENT
 SUMMARY:System Administrator Appreciation Day
 DTSTART:20170728
@@ -15,7 +15,7 @@ DTSTAMP:20170730T224700
 UID:4ec6f948-1e1f-438d-b9b1-8eaeb830a5b0
 RRULE:FREQ=YEARLY;BYDAY=FR;BYMONTH=7;BYSETPOS=-1
 DESCRIPTION:http://sysadminday.com/ \n 
-https://en.wikipedia.org/wiki/System_Administrator_Appreciation_Day
+ https://en.wikipedia.org/wiki/System_Administrator_Appreciation_Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Day of the Programmer
@@ -58,7 +58,7 @@ UID:0530b0eb-6e0f-4fd6-990f-fed9ae0441ca
 RRULE:FREQ=YEARLY;BYMONTH=3;BYMONTHDAY=31
 DESCRIPTION:Don't be an April Fool. Backup your files and check your
  restores on March 31st.\n
-http://www.worldbackupday.com
+ http://www.worldbackupday.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:IT Professionals Day
@@ -68,7 +68,7 @@ DTSTAMP:20170730T224700
 UID:64af4482-753f-4da9-853f-3babdb0db555
 RRULE:FREQ=YEARLY;BYDAY=TU;BYSETPOS=3;BYMONTH=9
 DESCRIPTION:http://www.itproday.org/ \n 
-https://en.wikipedia.org/wiki/IT_Professionals_Day
+ https://en.wikipedia.org/wiki/IT_Professionals_Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:World Telecommunication and Information Society Day
@@ -78,6 +78,6 @@ DTSTAMP:20170730T224700
 UID:cfa80a69-c0fa-4dce-b24e-b9297239539e
 RRULE:FREQ=YEARLY;BYMONTH=5;BYMONTHDAY=17
 DESCRIPTION:http://www.itu.int/wtisd/index.html \n 
-https://en.wikipedia.org/wiki/World_Information_Society_Day
+ https://en.wikipedia.org/wiki/World_Information_Society_Day
 END:VEVENT
 END:VCALENDAR
