@@ -1,6 +1,12 @@
 BEGIN:VCALENDAR
 PRODID:https://github.com/cdemi/The-IT-Professional-Calendar
 VERSION:2.0
+NAME:The IT Professional Calendar
+X-WR-CALNAME:The IT Professional Calendar
+DESCRIPTION:An Open Source IT Professional Calendar.
+https://github.com/cdemi/The-IT-Professional-Calendar
+X-WR-CALDESC:An Open Source IT Professional Calendar.
+https://github.com/cdemi/The-IT-Professional-Calendar
 BEGIN:VEVENT
 SUMMARY:System Administrator Appreciation Day
 DTSTART:20170728
