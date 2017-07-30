@@ -54,4 +54,14 @@ DESCRIPTION:Don't be an April Fool. Backup your files and check your
  restores on March 31st.\n
 http://www.worldbackupday.com
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT Professionals Day
+DTSTART:20170919
+DTEND:20170920
+DTSTAMP:20170730T224700
+UID:64af4482-753f-4da9-853f-3babdb0db555
+RRULE:FREQ=YEARLY;BYDAY=TU;BYSETPOS=3;BYMONTH=9
+DESCRIPTION:http://www.itproday.org/ \n 
+https://en.wikipedia.org/wiki/IT_Professionals_Day
+END:VEVENT
 END:VCALENDAR
