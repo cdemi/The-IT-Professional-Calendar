@@ -64,4 +64,14 @@ RRULE:FREQ=YEARLY;BYDAY=TU;BYSETPOS=3;BYMONTH=9
 DESCRIPTION:http://www.itproday.org/ \n 
 https://en.wikipedia.org/wiki/IT_Professionals_Day
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:World Telecommunication and Information Society Day
+DTSTART:20170517
+DTEND:20170518
+DTSTAMP:20170730T224700
+UID:cfa80a69-c0fa-4dce-b24e-b9297239539e
+RRULE:FREQ=YEARLY;BYMONTH=5;BYMONTHDAY=17
+DESCRIPTION:http://www.itu.int/wtisd/index.html \n 
+https://en.wikipedia.org/wiki/World_Information_Society_Day
+END:VEVENT
 END:VCALENDAR
