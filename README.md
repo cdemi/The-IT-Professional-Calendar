@@ -2,7 +2,7 @@
 This is an open-source calendar with a collection IT Professional Dates. 
 
 # How to use?
-Simply load the URL https://raw.githubusercontent.com/cdemi/The-IT-Professional-Calendar/master/The-IT-Professional-Calendar.ics in your favourite Calendar application and enjoy
+Simply load the URL https://cdemi.github.io/The-IT-Professional-Calendar/The-IT-Professional-Calendar.ics in your favourite Calendar application and enjoy
 
 # How to contribute?
 Easy! Fork, add your own and submit a pull request! 
