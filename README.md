@@ -1,4 +1,4 @@
-# The-IT-Professional-Calendar
+# The IT Professional Calendar
 This is an open-source calendar with a collection IT Professional Dates. 
 
 # How to use?
