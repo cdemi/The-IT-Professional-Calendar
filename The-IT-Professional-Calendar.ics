@@ -1,10 +1,14 @@
 BEGIN:VCALENDAR
+PRODID:https://github.com/cdemi/The-IT-Professional-Calendar
 VERSION:2.0
 BEGIN:VEVENT
 SUMMARY:System Administrator Appreciation Day
 DTSTART:20170728
 DTEND:20170729
+DTSTAMP:20170730T224700
+UID:4ec6f948-1e1f-438d-b9b1-8eaeb830a5b0
 RRULE:FREQ=YEARLY;BYDAY=FR;BYMONTH=7;BYSETPOS=-1
-DESCRIPTION:http://sysadminday.com/ \n https://en.wikipedia.org/wiki/System_Administrator_Appreciation_Day
+DESCRIPTION:http://sysadminday.com/ \n 
+ https://en.wikipedia.org/wiki/System_Administrator_Appreciation_Day
 END:VEVENT
 END:VCALENDAR
