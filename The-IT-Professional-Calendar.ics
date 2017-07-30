@@ -43,4 +43,15 @@ DTSTAMP:20170730T224700
 UID:2b8114c1-48d7-4812-80de-827176afd0a9
 DESCRIPTION:https://en.wikipedia.org/wiki/Day_of_the_Programmer
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:World Backup Day
+DTSTART:20170331
+DTEND:20170401
+DTSTAMP:20170730T224700
+UID:0530b0eb-6e0f-4fd6-990f-fed9ae0441ca
+RRULE:FREQ=YEARLY;BYMONTH=3;BYMONTHDAY=31
+DESCRIPTION:Don't be an April Fool. Backup your files and check your
+ restores on March 31st.\n
+http://www.worldbackupday.com
+END:VEVENT
 END:VCALENDAR
