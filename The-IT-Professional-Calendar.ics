@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+SUMMARY:System Administrator Appreciation Day
+DTSTART:20170728
+DTEND:20170729
+RRULE:FREQ=YEARLY;BYDAY=FR;BYMONTH=7;BYSETPOS=-1
+DESCRIPTION:http://sysadminday.com/ \n https://en.wikipedia.org/wiki/System_Administrator_Appreciation_Day
+END:VEVENT
+END:VCALENDAR
